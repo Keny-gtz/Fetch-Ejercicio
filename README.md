@@ -9,5 +9,6 @@ es un objeto Response. El método .json() convierte esa respuesta (generalmente 
 La respuesta de la solicitud fetch es un objeto Response. Al llamar a .json() sobre este objeto, estamos indicando que el contenido de la respuesta está en formato JSON.
 Después de obtener los datos en formato JSON, el siguiente paso es pasar esos datos (en la variable res) a la función createCards, que probablemente generará una representación visual de los productos, como las tarjetas que se ven en la interfaz.***
  
-Vista de la representacion de los productos.
-![https://https://github.com/Keny-gtz/Fetch-Ejercicio/blob/main/assets/imagen01.png]
+> Vista del index  de los productos.
+
+![Index](https://https://github.com/Keny-gtz/Fetch-Ejercicio/blob/main/assets/imagen01.png)
