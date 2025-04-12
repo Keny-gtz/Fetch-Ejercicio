@@ -11,4 +11,4 @@ Después de obtener los datos en formato JSON, el siguiente paso es pasar esos d
  
 > Vista del index  de los productos.
 
-![Index](https://https://github.com/Keny-gtz/Fetch-Ejercicio/blob/main/assets/imagen01.png)
+![Index](https://raw.githubusercontent.com/Keny-gtz/Fetch-Ejercicio/refs/heads/main/assets/imagen01.png)
